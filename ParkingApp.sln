@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingApp", "ParkingApp\ParkingApp.csproj", "{F8BA256D-F3CB-4156-B7BE-2C1AE2F19F22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkAppApi", "ParkAppApi\ParkAppApi.csproj", "{D54C8329-BCAE-4A0C-9289-03B6B8F94EE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8BA256D-F3CB-4156-B7BE-2C1AE2F19F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8BA256D-F3CB-4156-B7BE-2C1AE2F19F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8BA256D-F3CB-4156-B7BE-2C1AE2F19F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8BA256D-F3CB-4156-B7BE-2C1AE2F19F22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D54C8329-BCAE-4A0C-9289-03B6B8F94EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D54C8329-BCAE-4A0C-9289-03B6B8F94EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D54C8329-BCAE-4A0C-9289-03B6B8F94EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D54C8329-BCAE-4A0C-9289-03B6B8F94EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

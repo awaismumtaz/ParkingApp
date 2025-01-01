@@ -1,0 +1,14 @@
+C:\Users\groom\RiderProjects\ParkingApp\ParkingApp\bin\Debug\net8.0\ParkingApp.exe
+C:\Users\groom\RiderProjects\ParkingApp\ParkingApp\bin\Debug\net8.0\ParkingApp.deps.json
+C:\Users\groom\RiderProjects\ParkingApp\ParkingApp\bin\Debug\net8.0\ParkingApp.runtimeconfig.json
+C:\Users\groom\RiderProjects\ParkingApp\ParkingApp\bin\Debug\net8.0\ParkingApp.dll
+C:\Users\groom\RiderProjects\ParkingApp\ParkingApp\bin\Debug\net8.0\ParkingApp.pdb
+C:\Users\groom\RiderProjects\ParkingApp\ParkingApp\obj\Debug\net8.0\ParkingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\groom\RiderProjects\ParkingApp\ParkingApp\obj\Debug\net8.0\ParkingApp.AssemblyInfoInputs.cache
+C:\Users\groom\RiderProjects\ParkingApp\ParkingApp\obj\Debug\net8.0\ParkingApp.AssemblyInfo.cs
+C:\Users\groom\RiderProjects\ParkingApp\ParkingApp\obj\Debug\net8.0\ParkingApp.csproj.CoreCompileInputs.cache
+C:\Users\groom\RiderProjects\ParkingApp\ParkingApp\obj\Debug\net8.0\ParkingApp.dll
+C:\Users\groom\RiderProjects\ParkingApp\ParkingApp\obj\Debug\net8.0\refint\ParkingApp.dll
+C:\Users\groom\RiderProjects\ParkingApp\ParkingApp\obj\Debug\net8.0\ParkingApp.pdb
+C:\Users\groom\RiderProjects\ParkingApp\ParkingApp\obj\Debug\net8.0\ParkingApp.genruntimeconfig.cache
+C:\Users\groom\RiderProjects\ParkingApp\ParkingApp\obj\Debug\net8.0\ref\ParkingApp.dll
